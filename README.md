@@ -14,6 +14,8 @@ Dapper
 Microsoft.Extensions.Configuration.Abstractions
 System.Data.SqlClient
 
+appsettings.json (UI) add connectionStrings
+
 
 # API
 1. Program.cs -- hiden async Main ie.
